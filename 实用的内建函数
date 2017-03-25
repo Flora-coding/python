@@ -1,0 +1,9 @@
+dir（[obj]） 显示对象的属性，如果没有提供参数，则显示全局变量的名字
+help（[obj]）以一种整齐美观的形式，显示对象的文档字符串，如果没有提供任何参数，则会进入交互式帮助
+int（obj）将对象转化为整形
+len（obj）返回对象长度
+open（fn，mode）以mode（‘r’=读，‘w’=写）方式打开文件fn
+range（[start,]stop[,step]）返回一个整型列表
+raw_input（str）等待用户输入一个字符串，可以提供一个可选参数str用作提示信息
+str（obj）将对象转化成字符串
+type（obj）返回对象的类型
